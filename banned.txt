@@ -1,0 +1,1 @@
+# Name, CD key hash, ban count, ban end date

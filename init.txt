@@ -1,0 +1,18 @@
+sv_name ""
+sv_password ""
+sv_public 1
+sv_motd "motd.txt"
+sv_maxplayers "1"
+sv_mapcycle_timeout "8"
+sv_motd "motd.txt"
+sv_friendly_fire 1
+sv_tk_ban "60"
+sv_tk_grace "0s"
+sv_mapcycle_add bloodgulch "ECTF"
+sv_timelimit "0"
+sv_mapcycle_begin
+
+sv_log_enabled "0"
+
+load
+antihalofp 1
