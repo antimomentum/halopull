@@ -1,1 +1,3 @@
 halopc.org
+no_lead enabled
+TAXI ENABLED
