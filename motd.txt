@@ -1,5 +1,3 @@
-halopc.org
-
+taxi enabled
 no_lead enabled
-
-TAXI ENABLED
+halopc.org
