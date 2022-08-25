@@ -1,3 +1,5 @@
 taxi enabled
 no_lead enabled
+
+Ban appeals:
 halopc.org
