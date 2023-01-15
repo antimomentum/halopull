@@ -1,3 +1,4 @@
+Load
 sv_name ""
 sv_password ""
 sv_public 1
@@ -14,5 +15,4 @@ sv_mapcycle_begin
 
 sv_log_enabled "0"
 
-load
 antihalofp 1
