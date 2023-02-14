@@ -3,5 +3,4 @@ network_thread 0
 aimbot_ban 8300 1
 max_idle 0
 lua 1
-lua_load buttery_smooth
-object_sync_cleanup 0
+load_load hitregfix
